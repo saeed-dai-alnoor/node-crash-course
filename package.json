@@ -1,0 +1,14 @@
+{
+  "name": "crash-course",
+  "version": "1.0.0",
+  "description": "The basic node js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+  },
+  "author": "Saeed Dev",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
